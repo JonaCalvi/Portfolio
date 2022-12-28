@@ -406,26 +406,26 @@ h1, h2, h3, h4, h5, h6 {
   height: 50%;
 }
 #hero .product-screens img {
-  box-shadow: 0px -2px 19px 4px rgba(0, 0, 0, 0.29);
+  
 }
 #hero .product-screens .product-screen-1 {
   position: absolute;
   z-index: 30;
-  left: calc(50% + 54px);
+  left: calc(60% + 54px);
   bottom: 0;
-  top: 30px;
+  top: 50px;
 }
 #hero .product-screens .product-screen-2 {
   position: absolute;
   z-index: 20;
-  left: calc(50% - 154px);
+  left: calc(40% - 154px);
   bottom: 0;
   top: 90px;
 }
 #hero .product-screens .product-screen-3 {
   position: absolute;
   z-index: 10;
-  left: calc(50% - 374px);
+  left: calc(30% - 374px);
   bottom: 0;
   top: 150px;
 }
